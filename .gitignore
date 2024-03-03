@@ -1,0 +1,6 @@
+dmenu
+stest
+*.o
+*.tar.gz
+.orig
+.rej
